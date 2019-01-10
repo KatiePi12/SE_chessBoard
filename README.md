@@ -1,0 +1,2 @@
+# SE_chessBoard
+.idea
